@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color:#714206;
+    padding:10px;
+   border-radius: 5px;
+}
+
+
+body{
+    background-color: rgb(177, 177, 0);
+}
+
+
+.link-header:hover{
+    color:black;
+    text-size: 30px;
+}
+h1{
+    text-align:center;
+}
+
